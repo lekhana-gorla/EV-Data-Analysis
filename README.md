@@ -1,2 +1,13 @@
-# Python-Projects-Portfolio
-Beginner-to-intermediate Python projects covering automation, data handling, GUI apps, and simulations. Includes ATM, bank management, PDF-to-audio, supermarket, Tkinter to-do list, train reservation, and more. Showcases Python, OOP, file handling, and problem-solving skills.
+# EV Data Analysis Assignment
+This repository contains the **Electric Vehicle Data Analysis Assignment**.
+## Contents
+  - `EV_Data_Analysis.ipynb` – Jupyter Notebook with:
+  - Data cleaning and preparation
+  - Exploratory data analysis
+  - Data visualizations
+  - Linear regression model to predict electric range
+  - `ev_dataset.csv` – Dataset of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) registered in       Washington State.
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/lekhana-gorla/EV-Data-Analysis.git
