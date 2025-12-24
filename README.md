@@ -1,5 +1,5 @@
 # EV Data Analysis Assignment
-This repository contains the **Electric Vehicle Data Analysis Assignment**.
+This repository contains the **Electric Vehicle Data Analysis**.
 ## Contents
   - `EV_Data_Analysis.ipynb` – Jupyter Notebook with:
   - Data cleaning and preparation
